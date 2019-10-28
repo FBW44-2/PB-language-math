@@ -2,10 +2,10 @@
 ## Perform Mathematical Tasks with JavaScript. Remember: Print all results to the console!
 
 ### 1. Lowest Number
-Create a program that prints the number with the lowest value.
+Create a program that prints the number with the lowest.
 
 ### 2. Highest Number
-Create a program that prints the highest number in that array.
+Create a program that prints the highest number.
 
 ### 3. Rounding 
 
