@@ -16,12 +16,12 @@ Print out the highest number between -1 and 4.
 
 ### a. Round up
 
-Round up the following numbers: 3321.32321, 326.76, 76788.7, -9.78, 43.342.
+Round up each of the following numbers to the nearest integer: 3321.32321, 326.76, 76788.7, -9.78, 43.342.
 
 ### b. Round down
 
-Round down the following numbers: 3321.32321, 326.76, 76788.7, -9.78, 28.329.
+Round down each of the following numbers to the nearest integer: 3321.32321, 326.76, 76788.7, -9.78, 28.329.
 
 ## 3. Dice Roll!
 
-Create a program that prints a random **_integer_** from 1 - 6.
+Print a random integer between 1 and 6.
